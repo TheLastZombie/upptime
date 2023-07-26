@@ -1,21 +1,31 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: TheLastZombie # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Forgejo
+    url: https://forgejo.sny.sh
+  - name: Linx
+    url: https://linx.sny.sh
+  - name: Maloja
+    url: https://maloja.sny.sh
+  - name: Microblog
+    url: https://microblog.sny.sh
+  - name: Navidrome
+    url: https://navidrome.sny.sh
+  - name: Syncthing
+    url: https://syncthing.sny.sh
+    headers:
+      - "Authorization: Basic $SECRET_SITE"
+  - name: Tent
+    url: https://tent.sny.sh
+  - name: Website
+    url: https://sny.sh
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: upptime.sny.sh
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
