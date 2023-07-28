@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/maloja.sny.sh.ico",
     "slug": "maloja",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.53%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
     "time": 3953,
     "timeDay": 4816,
     "timeWeek": 3953,
     "timeMonth": 3953,
     "timeYear": 3953,
     "dailyMinutesDown": {
-      "2023-07-28": 0
+      "2023-07-28": 16
     }
   },
   {
