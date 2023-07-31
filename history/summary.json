@@ -6,7 +6,7 @@
     "slug": "forgejo",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 918,
     "timeMonth": 918,
     "timeYear": 918,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-31": 0
+    }
   },
   {
     "name": "Linx",
@@ -24,7 +26,7 @@
     "slug": "linx",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,25 +35,28 @@
     "timeWeek": 738,
     "timeMonth": 738,
     "timeYear": 738,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-31": 0
+    }
   },
   {
     "name": "Maloja",
     "url": "https://maloja.sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/maloja.sny.sh.ico",
     "slug": "maloja",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 4491,
     "timeDay": 9131,
     "timeWeek": 4491,
     "timeMonth": 4491,
     "timeYear": 4491,
     "dailyMinutesDown": {
+      "2023-07-31": 0,
       "2023-07-28": 16
     }
   },
@@ -60,9 +65,9 @@
     "url": "https://microblog.sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/microblog.sny.sh.ico",
     "slug": "microblog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,16 +76,18 @@
     "timeWeek": 1267,
     "timeMonth": 1267,
     "timeYear": 1267,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-31": 0
+    }
   },
   {
     "name": "Navidrome",
     "url": "https://navidrome.sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/navidrome.sny.sh.ico",
     "slug": "navidrome",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,16 +96,18 @@
     "timeWeek": 891,
     "timeMonth": 891,
     "timeYear": 891,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-31": 0
+    }
   },
   {
     "name": "Syncthing",
     "url": "https://syncthing.sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/syncthing.sny.sh.ico",
     "slug": "syncthing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,16 +116,18 @@
     "timeWeek": 1239,
     "timeMonth": 1239,
     "timeYear": 1239,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-31": 0
+    }
   },
   {
     "name": "Tent",
     "url": "https://tent.sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/tent.sny.sh.ico",
     "slug": "tent",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,16 +136,18 @@
     "timeWeek": 753,
     "timeMonth": 753,
     "timeYear": 753,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-31": 0
+    }
   },
   {
     "name": "Website",
     "url": "https://sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/sny.sh.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,6 +156,8 @@
     "timeWeek": 567,
     "timeMonth": 567,
     "timeYear": 567,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-31": 0
+    }
   }
 ]
