@@ -4,19 +4,19 @@
     "url": "https://forgejo.sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/forgejo.sny.sh.ico",
     "slug": "forgejo",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 935,
     "timeDay": 835,
     "timeWeek": 954,
     "timeMonth": 935,
     "timeYear": 935,
     "dailyMinutesDown": {
-      "2023-08-06": 11
+      "2023-08-06": 0
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://linx.sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/linx.sny.sh.ico",
     "slug": "linx",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 842,
     "timeDay": 1347,
     "timeWeek": 916,
     "timeMonth": 842,
     "timeYear": 842,
     "dailyMinutesDown": {
-      "2023-08-06": 11
+      "2023-08-06": 0
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://maloja.sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/maloja.sny.sh.ico",
     "slug": "maloja",
-    "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 3547,
     "timeDay": 1562,
     "timeWeek": 3225,
     "timeMonth": 3547,
     "timeYear": 3547,
     "dailyMinutesDown": {
-      "2023-08-06": 10,
+      "2023-08-06": 0,
       "2023-07-28": 16
     }
   },
@@ -65,19 +65,19 @@
     "url": "https://microblog.sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/microblog.sny.sh.ico",
     "slug": "microblog",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1335,
     "timeDay": 1814,
     "timeWeek": 1386,
     "timeMonth": 1335,
     "timeYear": 1335,
     "dailyMinutesDown": {
-      "2023-08-06": 9
+      "2023-08-06": 0
     }
   },
   {
@@ -85,19 +85,19 @@
     "url": "https://navidrome.sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/navidrome.sny.sh.ico",
     "slug": "navidrome",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 935,
     "timeDay": 1179,
     "timeWeek": 991,
     "timeMonth": 935,
     "timeYear": 935,
     "dailyMinutesDown": {
-      "2023-08-06": 9
+      "2023-08-06": 0
     }
   },
   {
@@ -105,19 +105,19 @@
     "url": "https://syncthing.sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/syncthing.sny.sh.ico",
     "slug": "syncthing",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1236,
     "timeDay": 1461,
     "timeWeek": 1239,
     "timeMonth": 1236,
     "timeYear": 1236,
     "dailyMinutesDown": {
-      "2023-08-06": 9
+      "2023-08-06": 0
     }
   },
   {
@@ -125,19 +125,19 @@
     "url": "https://tent.sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/tent.sny.sh.ico",
     "slug": "tent",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 963,
     "timeDay": 2808,
     "timeWeek": 1136,
     "timeMonth": 963,
     "timeYear": 963,
     "dailyMinutesDown": {
-      "2023-08-06": 8
+      "2023-08-06": 0
     }
   },
   {
@@ -145,7 +145,7 @@
     "url": "https://sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/sny.sh.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -156,6 +156,8 @@
     "timeWeek": 516,
     "timeMonth": 534,
     "timeYear": 534,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-06": 0
+    }
   }
 ]
