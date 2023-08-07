@@ -5,17 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/forgejo.sny.sh.ico",
     "slug": "forgejo",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.82%",
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 1154,
     "timeDay": 2637,
     "timeWeek": 1306,
     "timeMonth": 1154,
     "timeYear": 1154,
     "dailyMinutesDown": {
+      "2023-08-07": 4,
       "2023-08-06": 26
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://linx.sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/linx.sny.sh.ico",
     "slug": "linx",
-    "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 873,
     "timeDay": 1364,
     "timeWeek": 975,
     "timeMonth": 873,
     "timeYear": 873,
     "dailyMinutesDown": {
+      "2023-08-07": 3,
       "2023-08-06": 26
     }
   },
@@ -45,17 +47,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/maloja.sny.sh.ico",
     "slug": "maloja",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "uptime": "99.74%",
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
     "time": 3686,
     "timeDay": 3978,
     "timeWeek": 3067,
     "timeMonth": 3686,
     "timeYear": 3686,
     "dailyMinutesDown": {
+      "2023-08-07": 3,
       "2023-08-06": 26,
       "2023-07-28": 16
     }
@@ -65,18 +68,19 @@
     "url": "https://microblog.sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/microblog.sny.sh.ico",
     "slug": "microblog",
-    "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 1714,
     "timeDay": 4435,
     "timeWeek": 2024,
     "timeMonth": 1714,
     "timeYear": 1714,
     "dailyMinutesDown": {
+      "2023-08-07": 2,
       "2023-08-06": 26
     }
   },
@@ -85,10 +89,10 @@
     "url": "https://navidrome.sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/navidrome.sny.sh.ico",
     "slug": "navidrome",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
     "time": 1150,
@@ -97,6 +101,7 @@
     "timeMonth": 1150,
     "timeYear": 1150,
     "dailyMinutesDown": {
+      "2023-08-07": 2,
       "2023-08-06": 26
     }
   },
@@ -105,10 +110,10 @@
     "url": "https://syncthing.sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/syncthing.sny.sh.ico",
     "slug": "syncthing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
     "time": 1240,
@@ -117,6 +122,7 @@
     "timeMonth": 1240,
     "timeYear": 1240,
     "dailyMinutesDown": {
+      "2023-08-07": 1,
       "2023-08-06": 26
     }
   },
@@ -125,10 +131,10 @@
     "url": "https://tent.sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/tent.sny.sh.ico",
     "slug": "tent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
     "time": 953,
@@ -137,6 +143,7 @@
     "timeMonth": 953,
     "timeYear": 953,
     "dailyMinutesDown": {
+      "2023-08-07": 1,
       "2023-08-06": 26
     }
   },
@@ -145,9 +152,9 @@
     "url": "https://sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/sny.sh.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "98.17%",
+    "uptimeDay": "98.16%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
@@ -157,6 +164,7 @@
     "timeMonth": 525,
     "timeYear": 525,
     "dailyMinutesDown": {
+      "2023-08-07": 0,
       "2023-08-06": 26
     }
   }
