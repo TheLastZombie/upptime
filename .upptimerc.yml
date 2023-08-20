@@ -19,6 +19,8 @@ sites:
       - "Authorization: Basic $SECRET_SITE"
   - name: Tent
     url: https://tent.sny.sh
+  - name: Vaultwarden
+    url: https://vaultwarden.sny.sh
   - name: Website
     url: https://sny.sh
 
