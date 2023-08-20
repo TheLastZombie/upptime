@@ -194,19 +194,19 @@
     "url": "https://vaultwarden.sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/vaultwarden.sny.sh.ico",
     "slug": "vaultwarden",
-    "status": "down",
-    "uptime": "98.59%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "98.59%",
-    "time": 625,
-    "timeDay": 625,
-    "timeWeek": 625,
-    "timeMonth": 625,
-    "timeYear": 625,
+    "status": "up",
+    "uptime": "48.31%",
+    "uptimeDay": "48.31%",
+    "uptimeWeek": "48.31%",
+    "uptimeMonth": "48.31%",
+    "uptimeYear": "48.31%",
+    "time": 611,
+    "timeDay": 611,
+    "timeWeek": 611,
+    "timeMonth": 611,
+    "timeYear": 611,
     "dailyMinutesDown": {
-      "2023-08-20": 0
+      "2023-08-20": 9
     }
   },
   {
