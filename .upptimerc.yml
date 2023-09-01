@@ -13,10 +13,6 @@ sites:
     url: https://microblog.sny.sh
   - name: Navidrome
     url: https://navidrome.sny.sh
-  - name: Syncthing
-    url: https://syncthing.sny.sh
-    headers:
-      - "Authorization: Basic $SECRET_SITE"
   - name: Tent
     url: https://tent.sny.sh
   - name: Vaultwarden
