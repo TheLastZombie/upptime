@@ -3,6 +3,8 @@ owner: TheLastZombie # Your GitHub organization or username, where this reposito
 repo: upptime # The name of this repository
 
 sites:
+  - name: AdGuard
+    url: https://adguard.sny.sh
   - name: Forgejo
     url: https://forgejo.sny.sh
   - name: Linx
