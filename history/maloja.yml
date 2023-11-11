@@ -1,7 +1,7 @@
 url: https://maloja.sny.sh
-status: up
-code: 200
-responseTime: 2459
-lastUpdated: 2023-11-10T23:05:54.624Z
+status: down
+code: 502
+responseTime: 3925
+lastUpdated: 2023-11-11T07:54:47.686Z
 startTime: 2023-07-26T12:50:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
