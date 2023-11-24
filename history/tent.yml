@@ -1,7 +1,7 @@
 url: https://tent.sny.sh
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-24T20:41:36.380Z
+status: up
+code: 200
+responseTime: 1073
+lastUpdated: 2023-11-24T20:50:42.873Z
 startTime: 2023-07-26T12:50:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
