@@ -1,7 +1,7 @@
 url: https://microblog.sny.sh
-status: down
-code: 500
-responseTime: 16866
-lastUpdated: 2023-12-06T00:49:06.343Z
+status: up
+code: 200
+responseTime: 17543
+lastUpdated: 2023-12-06T01:21:19.428Z
 startTime: 2023-07-26T12:50:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
