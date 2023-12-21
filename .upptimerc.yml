@@ -7,8 +7,6 @@ sites:
     url: https://adguard.sny.sh
   - name: Forgejo
     url: https://forgejo.sny.sh
-  - name: Grocy
-    url: https://grocy.sny.sh
   - name: Linx
     url: https://linx.sny.sh
   - name: Maloja
