@@ -15,8 +15,6 @@ sites:
     url: https://microblog.sny.sh
   - name: Navidrome
     url: https://navidrome.sny.sh
-  - name: Radicale
-    url: https://radicale.sny.sh
   - name: Tent
     url: https://tent.sny.sh
   - name: Vaultwarden
