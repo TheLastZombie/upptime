@@ -1,7 +1,7 @@
 url: https://navidrome.sny.sh
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-30T08:31:19.151Z
+status: up
+code: 200
+responseTime: 885
+lastUpdated: 2023-12-30T08:48:45.081Z
 startTime: 2023-07-26T12:50:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
