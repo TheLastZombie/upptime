@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: AdGuard
     url: https://adguard.sny.sh
+  - name: Agreper
+    url: https://agreper.sny.sh
   - name: Forgejo
     url: https://forgejo.sny.sh
   - name: Linx
