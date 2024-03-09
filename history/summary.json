@@ -325,8 +325,8 @@
     "slug": "microblog",
     "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "98.82%",
     "time": 3426,
@@ -335,7 +335,6 @@
     "timeMonth": 2443,
     "timeYear": 3426,
     "dailyMinutesDown": {
-      "2024-03-08": 2,
       "2024-02-29": 34,
       "2024-02-18": 35,
       "2024-02-02": 16,
