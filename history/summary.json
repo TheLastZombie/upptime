@@ -96,19 +96,19 @@
     "url": "https://faircamp.sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/faircamp.sny.sh.ico",
     "slug": "faircamp",
-    "status": "down",
-    "uptime": "1.66%",
-    "uptimeDay": "1.66%",
-    "uptimeWeek": "1.66%",
-    "uptimeMonth": "1.66%",
-    "uptimeYear": "1.66%",
-    "time": 1052,
-    "timeDay": 1052,
-    "timeWeek": 1052,
-    "timeMonth": 1052,
-    "timeYear": 1052,
+    "status": "up",
+    "uptime": "0.62%",
+    "uptimeDay": "0.62%",
+    "uptimeWeek": "0.62%",
+    "uptimeMonth": "0.62%",
+    "uptimeYear": "0.62%",
+    "time": 743,
+    "timeDay": 743,
+    "timeWeek": 743,
+    "timeMonth": 743,
+    "timeYear": 743,
     "dailyMinutesDown": {
-      "2024-03-29": 1
+      "2024-03-29": 33
     }
   },
   {
