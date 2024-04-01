@@ -11,6 +11,8 @@ sites:
     url: https://faircamp.sny.sh
   - name: Forgejo
     url: https://forgejo.sny.sh
+  - name: Jellyfin
+    url: https://jellyfin.sny.sh
   - name: Linx
     url: https://linx.sny.sh
   - name: Maloja
