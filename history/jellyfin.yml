@@ -1,7 +1,7 @@
 url: https://jellyfin.sny.sh
-status: down
-code: 502
-responseTime: 1008
-lastUpdated: 2024-04-01T11:20:38.457Z
+status: up
+code: 200
+responseTime: 811
+lastUpdated: 2024-04-01T11:28:57.756Z
 startTime: 2024-04-01T11:14:29.653Z
 generator: Upptime <https://github.com/upptime/upptime>
