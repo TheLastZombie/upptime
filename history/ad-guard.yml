@@ -1,7 +1,7 @@
 url: https://adguard.sny.sh
-status: up
-code: 200
-responseTime: 802
-lastUpdated: 2024-06-11T07:12:46.381Z
+status: down
+code: 502
+responseTime: 1177
+lastUpdated: 2024-06-11T16:05:32.946Z
 startTime: 2023-10-06T18:07:09.772Z
 generator: Upptime <https://github.com/upptime/upptime>
