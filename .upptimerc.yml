@@ -21,8 +21,6 @@ sites:
     url: https://linx.sny.sh
   - name: Maloja
     url: https://maloja.sny.sh
-  - name: Microblog
-    url: https://microblog.sny.sh
   - name: Navidrome
     url: https://navidrome.sny.sh
   - name: Radicale
