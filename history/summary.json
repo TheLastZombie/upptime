@@ -13,7 +13,7 @@
     "time": 1693,
     "timeDay": 899,
     "timeWeek": 1102,
-    "timeMonth": 1169,
+    "timeMonth": 1167,
     "timeYear": 1689,
     "dailyMinutesDown": {
       "2024-10-09": 71,
@@ -756,7 +756,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/radicale.sny.sh.ico",
     "slug": "radicale",
     "status": "up",
-    "uptime": "95.96%",
+    "uptime": "95.97%",
     "uptimeDay": "94.60%",
     "uptimeWeek": "99.23%",
     "uptimeMonth": "99.76%",
@@ -819,19 +819,19 @@
     "url": "https://tent.sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/tent.sny.sh.ico",
     "slug": "tent",
-    "status": "up",
-    "uptime": "97.38%",
-    "uptimeDay": "94.64%",
+    "status": "down",
+    "uptime": "97.39%",
+    "uptimeDay": "94.59%",
     "uptimeWeek": "99.23%",
     "uptimeMonth": "98.33%",
-    "uptimeYear": "96.84%",
+    "uptimeYear": "96.85%",
     "time": 1052,
     "timeDay": 570,
     "timeWeek": 777,
     "timeMonth": 849,
     "timeYear": 1089,
     "dailyMinutesDown": {
-      "2024-10-09": 77,
+      "2024-10-09": 78,
       "2024-09-30": 543,
       "2024-09-29": 53,
       "2024-09-23": 31,
@@ -908,8 +908,7 @@
       "2024-01-26": 187,
       "2024-01-24": 19,
       "2024-01-20": 52,
-      "2024-01-15": 25,
-      "2024-01-12": 47
+      "2024-01-15": 25
     }
   },
   {
