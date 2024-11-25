@@ -11,6 +11,8 @@ sites:
     url: https://copyparty.sny.sh
   - name: Dufs
     url: https://dufs.sny.sh
+    expectedStatusCodes:
+      - 401
   - name: Faircamp
     url: https://faircamp.sny.sh
   - name: Forgejo
