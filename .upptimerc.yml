@@ -17,6 +17,8 @@ sites:
     url: https://gallery.sny.sh
   - name: GoToSocial
     url: https://gotosocial.sny.sh
+  - name: LibreY
+    url: https://librey.sny.sh
   - name: Linx
     url: https://linx.sny.sh
   - name: Maloja
