@@ -7,8 +7,6 @@ sites:
     url: https://adguard.sny.sh
   - name: Agreper
     url: https://agreper.sny.sh
-  - name: Copyparty
-    url: https://copyparty.sny.sh
   - name: Dufs
     url: https://dufs.sny.sh
     expectedStatusCodes:
