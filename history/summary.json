@@ -212,18 +212,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dufs.sny.sh.ico",
     "slug": "dufs",
     "status": "down",
-    "uptime": "2.53%",
-    "uptimeDay": "2.53%",
-    "uptimeWeek": "2.53%",
-    "uptimeMonth": "2.53%",
-    "uptimeYear": "2.53%",
+    "uptime": "0.53%",
+    "uptimeDay": "0.53%",
+    "uptimeWeek": "0.53%",
+    "uptimeMonth": "0.53%",
+    "uptimeYear": "0.53%",
     "time": 600,
     "timeDay": 600,
     "timeWeek": 600,
     "timeMonth": 600,
     "timeYear": 600,
     "dailyMinutesDown": {
-      "2024-11-25": 1
+      "2024-11-25": 2
     }
   },
   {
