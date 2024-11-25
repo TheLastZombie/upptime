@@ -212,19 +212,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dufs.sny.sh.ico",
     "slug": "dufs",
     "status": "up",
-    "uptime": "13.21%",
-    "uptimeDay": "13.21%",
-    "uptimeWeek": "13.21%",
-    "uptimeMonth": "13.21%",
-    "uptimeYear": "13.21%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 677,
     "timeDay": 677,
     "timeWeek": 677,
     "timeMonth": 677,
     "timeYear": 677,
-    "dailyMinutesDown": {
-      "2024-11-25": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Faircamp",
