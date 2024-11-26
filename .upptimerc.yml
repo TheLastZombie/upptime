@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: AdGuard
     url: https://adguard.sny.sh
+  - name: Baïkal
+    url: https://baikal.sny.sh
   - name: Dufs
     url: https://dufs.sny.sh
     expectedStatusCodes:
@@ -27,8 +29,6 @@ sites:
     url: https://navidrome.sny.sh
   - name: Prosody
     url: https://prosody.sny.sh
-  - name: Radicale
-    url: https://radicale.sny.sh
   - name: Tent
     url: https://tent.sny.sh
   - name: Website
