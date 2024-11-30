@@ -1,7 +1,7 @@
 url: https://prosody.sny.sh
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-30T09:36:52.462Z
+status: up
+code: 200
+responseTime: 416
+lastUpdated: 2024-11-30T09:45:26.885Z
 startTime: 2024-10-11T07:31:55.279Z
 generator: Upptime <https://github.com/upptime/upptime>
