@@ -1,7 +1,7 @@
 url: https://forgejo.sny.sh
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-02T10:04:53.391Z
+status: up
+code: 200
+responseTime: 803
+lastUpdated: 2024-12-02T10:14:52.821Z
 startTime: 2023-07-26T12:49:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
