@@ -27,8 +27,6 @@ sites:
     url: https://maloja.sny.sh
   - name: Navidrome
     url: https://navidrome.sny.sh
-  - name: Prosody
-    url: https://prosody.sny.sh
   - name: Tent
     url: https://tent.sny.sh
   - name: Website
