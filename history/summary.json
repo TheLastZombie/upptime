@@ -97,10 +97,10 @@
     "url": "https://baikal.sny.sh",
     "icon": "https://icons.duckduckgo.com/ip3/baikal.sny.sh.ico",
     "slug": "baikal",
-    "status": "up",
+    "status": "down",
     "uptime": "97.16%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.24%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "95.22%",
     "uptimeMonth": "97.16%",
     "uptimeYear": "97.16%",
     "time": 1567,
@@ -109,6 +109,7 @@
     "timeMonth": 1601,
     "timeYear": 1585,
     "dailyMinutesDown": {
+      "2024-12-26": 2,
       "2024-12-21": 30,
       "2024-12-20": 450,
       "2024-12-13": 47,
@@ -534,9 +535,9 @@
     "slug": "maloja",
     "status": "up",
     "uptime": "97.79%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "95.14%",
-    "uptimeMonth": "97.19%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.24%",
+    "uptimeMonth": "97.22%",
     "uptimeYear": "96.86%",
     "time": 5271,
     "timeDay": 1813,
@@ -544,7 +545,6 @@
     "timeMonth": 4790,
     "timeYear": 5271,
     "dailyMinutesDown": {
-      "2024-12-26": 9,
       "2024-12-21": 30,
       "2024-12-20": 450,
       "2024-12-15": 67,
@@ -612,7 +612,8 @@
       "2024-03-14": 7,
       "2024-02-29": 35,
       "2024-02-18": 35,
-      "2024-02-02": 16
+      "2024-02-02": 16,
+      "2024-01-31": 17
     }
   },
   {
