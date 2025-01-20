@@ -7,10 +7,6 @@ sites:
     url: https://adguard.sny.sh
   - name: Baïkal
     url: https://baikal.sny.sh
-  - name: Dufs
-    url: https://dufs.sny.sh
-    expectedStatusCodes:
-      - 401
   - name: Faircamp
     url: https://faircamp.sny.sh
   - name: Forgejo
