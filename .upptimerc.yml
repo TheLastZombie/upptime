@@ -23,6 +23,8 @@ sites:
     url: https://linx.sny.sh
   - name: Maloja
     url: https://maloja.sny.sh
+  - name: Media Tracker
+    url: https://mediatracker.sny.sh
   - name: Navidrome
     url: https://navidrome.sny.sh
   - name: Tent
